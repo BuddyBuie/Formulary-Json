@@ -1,11 +1,11 @@
 [
         {
-            "ID": "8041",
+            "id": "8041",
             "MedPDB_Key": "8992706",
             "OEM_Part_Num": "6530-00-269-3598",
             "Vendor_Part_Number": "6530-00-269-3598",
             "NSN": "6530-00-269-3598",
-            "Short_Description": "Paper sheeting for examination table. Roll is 500'. UOI is CS. CS = 10 rolls.",
+            "name": "Paper sheeting for examination table. Roll is 500'. UOI is CS. CS = 10 rolls.",
             "Expanded_Description": "Paper sheeting for examination table. Roll is 500'. UOI is CS. CS = 10 rolls.",
             "UOI": "CS",
             "Quantity_per_UOI": "10",
@@ -20,12 +20,12 @@
             "Contractor_UEI": "FTU1KCHNZDM6"
         },
         {
-            "ID": "8042",
+            "id": "8042",
             "MedPDB_Key": "8985182",
             "OEM_Part_Num": "6530-00-786-4790",
             "Vendor_Part_Number": "6530-00-786-4790",
             "NSN": "6530-00-786-4790",
-            "Short_Description": "Paper sheeting, strong, highly absorbent, creped exam table paper rolls with cardboard core.  17 3/4' wide x 150' long.  Color = White.  UOI is CS.  CS = 12 rolls.",
+            "name": "Paper sheeting, strong, highly absorbent, creped exam table paper rolls with cardboard core.  17 3/4' wide x 150' long.  Color = White.  UOI is CS.  CS = 12 rolls.",
             "Expanded_Description": "Paper sheeting, strong, highly absorbent, creped exam table paper rolls with cardboard core.  17 3/4' wide x 150' long.  Color = White.  UOI is CS.  CS = 12 rolls.",
             "UOI": "CS",
             "Quantity_per_UOI": "12",
@@ -45,7 +45,7 @@
             "OEM_Part_Num": "6530-01-092-3914",
             "Vendor_Part_Number": "6530-01-092-3914",
             "NSN": "6530-01-092-3914",
-            "Short_Description": "Paper sheeting, strong, highly absorbent, creped exam table paper rolls with cardboard core.  17 3/4' wide x 125' long.  Color = White.  UOI is CS.  CS = 12 rolls.",
+            "name": "Paper sheeting, strong, highly absorbent, creped exam table paper rolls with cardboard core.  17 3/4' wide x 125' long.  Color = White.  UOI is CS.  CS = 12 rolls.",
             "Expanded_Description": "Paper sheeting, strong, highly absorbent, creped exam table paper rolls with cardboard core.  17 3/4' wide x 125' long.  Color = White.  UOI is CS.  CS = 12 rolls.",
             "UOI": "CS",
             "Quantity_per_UOI": "12",
@@ -60,12 +60,12 @@
             "Contractor_UEI": "FTU1KCHNZDM6"
         },
         {
-            "ID": "8044",
+            "id": "8044",
             "MedPDB_Key": "3159582",
             "OEM_Part_Num": "71-8511",
             "Vendor_Part_Number": "6515-00-NIB-0129",
             "NSN": "6515-00-NIB-0121",
-            "Short_Description": "Gloves, Surgical, Powder-free, Latex-free, GAMMEX Non-Latex, Green, Size 5.5\"",
+            "name": "Gloves, Surgical, Powder-free, Latex-free, GAMMEX Non-Latex, Green, Size 5.5\"",
             "Expanded_Description": "Gloves, Surgical, Powder-free, Latex-free, GAMMEX Non-Latex, Green, Size 5.5\"",
             "UOI": "BX",
             "Quantity_per_UOI": "200",
@@ -81,12 +81,12 @@
             "Contractor_UEI": "RPKVK2B9KH19"
         },
         {
-            "ID": "8045",
+            "id": "8045",
             "MedPDB_Key": "3159583",
             "OEM_Part_Num": "71-8512",
             "Vendor_Part_Number": "6515-00-NIB-0130",
             "NSN": "6515-00-NIB-0122",
-            "Short_Description": "Gloves, Surgical, Powder-free, Latex-free, GAMMEX Non-Latex, Green, Size 6\"",
+            "name": "Gloves, Surgical, Powder-free, Latex-free, GAMMEX Non-Latex, Green, Size 6\"",
             "Expanded_Description": "Gloves, Surgical, Powder-free, Latex-free, GAMMEX Non-Latex, Green, Size 6\"",
             "UOI": "BX",
             "Quantity_per_UOI": "200",
