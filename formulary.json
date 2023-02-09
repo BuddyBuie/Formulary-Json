@@ -1,5 +1,4 @@
-{
-    "Sheet1": [
+[
         {
             "ID": "8041",
             "MedPDB_Key": "8992706",
@@ -102,4 +101,5 @@
             "Contract_Num": "36C10X22G0003",
             "Contractor_UEI": "RPKVK2B9KH19"
         }
-        ]
+    }
+  ]
